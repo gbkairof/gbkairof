@@ -4,6 +4,7 @@ Motivado pela minha paixão por resolver problemas de forma eficiente, estou com
 
 💻 Habilidades:
 ▪ JavaScript, HTML, CSS
+▪ SQL
 ▪ Git, GitHub
 ▪ Conhecimento em metodologias ágeis, garantindo entregas eficientes e colaborativas.
 ▪ Inglês avançado e atualmente estudando Espanhol

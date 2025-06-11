@@ -11,5 +11,5 @@ crítico e a colaboração.
 ▪ C
 ▪ JavaScript, HTML, CSS
 ▪ SQL
-▪ Git, GitHub
+▪ Git
 ▪ Conhecimento em metodologias ágeis.
